@@ -1,0 +1,410 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "e47ce0cc-dc16-4acd-8b64-2cf34169a690",
+                "name": "鳳山區第77期重劃區公12公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.346293,
+                    22.593344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8994a3c9-a644-4b20-9779-466a1d64506e",
+                "name": "五甲國宅社區國光里公6公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3414,
+                    22.61282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20ab9634-331f-4231-80fc-cad96a067a5d",
+                "name": "衛武營都會公園內共融遊戲場",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33879,
+                    22.61665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "422abc12-6c13-4865-bdd7-1df77b1ada22",
+                "name": "前金區中央公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30101,
+                    22.62323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "afae670e-b68c-41b0-91fe-71ca37c18d23",
+                "name": "旗山公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47994,
+                    22.88729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "206d5964-f110-4bcb-93a5-8cb2fb8f21dd",
+                "name": "小港區漢民公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35842,
+                    22.56685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6fcba948-fba7-4fe9-a26f-af9174a8dec3",
+                "name": "小港區坪鳳公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.38771,
+                    22.55751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "e8e0a0e5-383d-41b0-b7c4-f400c592f6f9",
+                "name": "小港區小港一號公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33719,
+                    22.5648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "61fce912-bc37-4e06-93c1-641e9795b9ae",
+                "name": "大社區大社公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35385,
+                    22.72902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5fc06713-6c97-4acb-ae9c-3083a3f0e20f",
+                "name": "燕巢區南燕公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35788,
+                    22.78985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "74bc91a8-fbf1-45d6-9bcd-b0e9fcac2a15",
+                "name": "阿蓮區和蓮公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32575,
+                    22.88239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "eb38db4f-bfd5-4ef4-9892-a3cb4c11c83f",
+                "name": "鼓山區九如公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.27842,
+                    22.65754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2fc80233-2830-4a11-a88c-bf50d90fcb73",
+                "name": "大樹區九曲堂公2",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42451,
+                    22.65678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "aa891e58-5905-4539-b4ef-3b53ac3ee89e",
+                "name": "前鎮區時代公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.312728,
+                    22.595475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3f48e77a-cc0f-4952-b15c-3c20923aae8d",
+                "name": "橋頭區一品公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301992,
+                    22.763337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "75a558ed-87d3-4027-89f6-9b6ad7bf8dac",
+                "name": "梓官區信蚵公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.257135,
+                    22.726559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "e53479fd-9bcc-4a41-8cd9-e4bf64125ad1",
+                "name": "彌陀區彌陀公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24593,
+                    22.78518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "d8bf7beb-1d2b-4557-8e6e-5faffc5b4d1d",
+                "name": "路竹區路竹公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.25332,
+                    22.85402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "350f4e70-28af-47d7-aafe-5ac66639bd1a",
+                "name": "岡山和平公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30306,
+                    22.79766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "50cad42e-e9a4-4226-bc4d-a42bf6841aee",
+                "name": "前鎮區籬仔內公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32118,
+                    22.60482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "98564fa7-9d8a-4dc3-bed6-50d1e35cf70b",
+                "name": "鼓山區凹仔底森林公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30007,
+                    22.65965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "65f83ff5-b473-4673-b7c6-2bf3fba4eb22",
+                "name": "岡山河堤公園共融遊戲場",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29139,
+                    22.78789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "486ea5a3-1949-415d-a4f1-06f7d26c923a",
+                "name": "左營區福山公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32175,
+                    22.6817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0a6a790c-67ec-4a75-a500-5b2fdb6e36db",
+                "name": "苓雅區福安公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33114,
+                    22.62467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "0ca8995f-c895-431d-ad3a-5122ec0c4dc1",
+                "name": "湖內區公3公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24188,
+                    22.88458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1025e497-0d8e-4477-b26f-e0f1032a945e",
+                "name": "前鎮區汕頭公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31822,
+                    22.60858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "032a69ef-bd64-4cdd-b951-4c71354a197f",
+                "name": "小港森林公園",
+                "type": "playground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36942,
+                    22.57278
+                ]
+            }
+        }
+    ]
+}

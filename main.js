@@ -48,6 +48,33 @@ var baseLayer = new ol.layer.Tile({
   opacity: 0.3
 });
 
+var playgroundsStyle = function (f) {
+  var p = f.getProperties();
+  return new ol.style.Style({
+    image: new ol.style.RegularShape({
+      radius: 15,
+      points: 3,
+      fill: new ol.style.Fill({
+        color: 'rgba(236, 120, 62, 1)'
+      }),
+      stroke: new ol.style.Stroke({
+        color: '#00f',
+        width: 2
+      })
+    }),
+    text: new ol.style.Text({
+      font: 'bold 16px "Open Sans", "Arial Unicode MS", "sans-serif"',
+      placement: 'point',
+      textAlign: 'left',
+      textBaseline: 'bottom',
+      fill: new ol.style.Fill({
+        color: 'rgba(255, 0, 255, 1)'
+      }),
+      text: p.name
+    })
+  });
+}
+
 var transStyle = function (f) {
   var p = f.getProperties(), color;
   if (p.type === 'point') {
@@ -69,7 +96,7 @@ var transStyle = function (f) {
         textAlign: 'left',
         textBaseline: 'bottom',
         fill: new ol.style.Fill({
-          color: 'blue'
+          color: 'rgba(0, 0, 255, 0.5)'
         }),
         text: p.id + ' ' + p.name
       })
@@ -77,19 +104,19 @@ var transStyle = function (f) {
   } else {
     switch (p.id) {
       case 'C':
-        color = 'rgba(129, 190, 60, 1)';
+        color = 'rgba(129, 190, 60, 0.7)';
         break;
       case 'R':
-        color = 'rgba(224, 0, 65, 1)';
+        color = 'rgba(224, 0, 65, 0.7)';
         break;
       case 'O':
-        color = 'rgba(245, 155, 15, 1)';
+        color = 'rgba(245, 155, 15, 0.7)';
         break;
     }
     return new ol.style.Style({
       stroke: new ol.style.Stroke({
         color: color,
-        width: 5
+        width: 3
       })
     });
   }
@@ -103,6 +130,13 @@ var trans = new ol.layer.Vector({
   style: transStyle
 });
 
+var playgrounds = new ol.layer.Vector({
+  source: new ol.source.Vector({
+    url: 'json/playgrounds.json',
+    format: new ol.format.GeoJSON()
+  }),
+  style: playgroundsStyle
+});
 
 var appView = new ol.View({
   center: ol.proj.fromLonLat([120.301994, 22.631393]),
@@ -168,28 +202,39 @@ var vector = new ol.layer.Vector({
 });
 
 var map = new ol.Map({
-  layers: [baseLayer, trans],
+  layers: [baseLayer, trans, playgrounds],
   target: 'map',
   view: appView
 });
 map.addControl(sidebar);
 
+var sidebarTitle = document.getElementById('sidebarTitle');
 var content = document.getElementById('sidebarContent');
+
 map.on('singleclick', function (evt) {
   content.innerHTML = '';
-  clickedCoordinate = evt.coordinate;
-
+  pointClicked = false;
   map.forEachFeatureAtPixel(evt.pixel, function (feature, layer) {
-    var message = '';
-    var p = feature.getProperties();
-    for (k in p) {
-      if (k !== 'geometry') {
-        message += k + ': ' + p[k] + '<br />';
+    if (false === pointClicked) {
+      var p = feature.getProperties();
+      if (p.type && p.type === 'playground') {
+        var lonLat = ol.proj.toLonLat(p.geometry.getCoordinates());
+        var message = '<table class="table table-dark">';
+        message += '<tbody>';
+        message += '<tr><th scope="row" style="width: 80px;">名稱</th><td>' + p.name + '</td></tr>';
+        message += '<tr><th scope="row">介紹</th><td><a href="https://pwbmo.kcg.gov.tw/InclusivePlaygroundDetail.aspx?Cond=' + p.id + '" target="_blank" class="btn btn-primary btn-lg btn-block">高雄市政府介紹</a></td></tr>';
+        message += '<tr><td colspan="2">';
+        message += '<hr /><div class="btn-group-vertical" role="group" style="width: 100%;">';
+        message += '<a href="https://www.google.com/maps/dir/?api=1&destination=' + lonLat[1] + ',' + lonLat[0] + '&travelmode=driving" target="_blank" class="btn btn-info btn-lg btn-block">Google 導航</a>';
+        message += '<a href="https://wego.here.com/directions/drive/mylocation/' + lonLat[1] + ',' + lonLat[0] + '" target="_blank" class="btn btn-info btn-lg btn-block">Here WeGo 導航</a>';
+        message += '<a href="https://bing.com/maps/default.aspx?rtp=~pos.' + lonLat[1] + '_' + lonLat[0] + '" target="_blank" class="btn btn-info btn-lg btn-block">Bing 導航</a>';
+        message += '</div></td></tr>';
+        message += '</tbody></table>';
+        sidebarTitle.innerHTML = p.name;
+        content.innerHTML = message;
+        sidebar.open('home');
+        pointClicked = true;
       }
     }
-
-    content.innerHTML += message + '<hr />';
   });
-
-  sidebar.open('home');
 });
