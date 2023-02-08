@@ -34,7 +34,7 @@ var baseLayer = new ol.layer.Tile({
   source: new ol.source.WMTS({
     matrixSet: 'EPSG:3857',
     format: 'image/png',
-    url: 'http://wmts.nlsc.gov.tw/wmts',
+    url: 'https://wmts.nlsc.gov.tw/wmts',
     layer: 'EMAP',
     tileGrid: new ol.tilegrid.WMTS({
       origin: ol.extent.getTopLeft(projectionExtent),
@@ -43,7 +43,7 @@ var baseLayer = new ol.layer.Tile({
     }),
     style: 'default',
     wrapX: true,
-    attributions: '<a href="http://maps.nlsc.gov.tw/" target="_blank">國土測繪圖資服務雲</a>'
+    attributions: '<a href="https://maps.nlsc.gov.tw/" target="_blank">國土測繪圖資服務雲</a>'
   }),
   opacity: 0.3
 });
@@ -173,13 +173,6 @@ geolocation.on('change:position', function () {
   positionFeature.setGeometry(coordinates ? new ol.geom.Point(coordinates) : null);
 });
 
-new ol.layer.Vector({
-  map: map,
-  source: new ol.source.Vector({
-    features: [positionFeature]
-  })
-});
-
 var source = new ol.source.Vector();
 
 var vector = new ol.layer.Vector({
@@ -207,6 +200,13 @@ var map = new ol.Map({
   view: appView
 });
 map.addControl(sidebar);
+
+new ol.layer.Vector({
+  map: map,
+  source: new ol.source.Vector({
+    features: [positionFeature]
+  })
+});
 
 var sidebarTitle = document.getElementById('sidebarTitle');
 var content = document.getElementById('sidebarContent');
