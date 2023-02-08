@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfBaseStation>
+  <BaseStation>
+    <StationID>C14</StationID>
+    <StationName>哈瑪星</StationName>
+    <Geometry>POINT (120.275849 22.621617)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:25:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C8</StationID>
+    <StationName>高雄展覽館</StationName>
+    <Geometry>POINT (120.298022 22.610133)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:24:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C3</StationID>
+    <StationName>前鎮之星</StationName>
+    <Geometry>POINT (120.315368 22.595503)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:23:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C10</StationID>
+    <StationName>光榮碼頭</StationName>
+    <Geometry>POINT (120.293234 22.616805)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:24:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C2</StationID>
+    <StationName>凱旋瑞田</StationName>
+    <Geometry>POINT (120.319799 22.599533)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:23:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C9</StationID>
+    <StationName>旅運中心</StationName>
+    <Geometry>POINT (120.293424 22.611587)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:24:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C13</StationID>
+    <StationName>駁二蓬萊</StationName>
+    <Geometry>POINT (120.279923 22.6205)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:24:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C12</StationID>
+    <StationName>駁二大義</StationName>
+    <Geometry>POINT (120.284204 22.618562)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:24:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C5</StationID>
+    <StationName>夢時代</StationName>
+    <Geometry>POINT (120.305004 22.594886)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:24:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C1</StationID>
+    <StationName>籬仔內</StationName>
+    <Geometry>POINT (120.324651 22.604625)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:23:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C6</StationID>
+    <StationName>經貿園區</StationName>
+    <Geometry>POINT (120.30266 22.600961)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:24:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C4</StationID>
+    <StationName>凱旋中華</StationName>
+    <Geometry>POINT (120.310517 22.593656)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:24:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C7</StationID>
+    <StationName>軟體園區</StationName>
+    <Geometry>POINT (120.300832 22.605684)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:24:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C11</StationID>
+    <StationName>真愛碼頭</StationName>
+    <Geometry>POINT (120.289466 22.619315)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:24:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C15</StationID>
+    <StationName>壽山公園站</StationName>
+    <Geometry>POINT (120.278601 22.626541)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:25:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C16</StationID>
+    <StationName>文武聖殿站</StationName>
+    <Geometry>POINT (120.2807 22.62959)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:25:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C17</StationID>
+    <StationName>鼓山區公所站</StationName>
+    <Geometry>POINT (120.282567 22.635988)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:25:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C32</StationID>
+    <StationName>凱旋公園站</StationName>
+    <Geometry>POINT (120.322801 22.629468)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:26:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C33</StationID>
+    <StationName>衛生局站</StationName>
+    <Geometry>POINT (120.3237 22.6252)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:26:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C34</StationID>
+    <StationName>五權國小站</StationName>
+    <Geometry>POINT (120.3252 22.62121)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:26:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C35</StationID>
+    <StationName>凱旋武昌站</StationName>
+    <Geometry>POINT (120.3269 22.61693)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:26:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C36</StationID>
+    <StationName>凱旋二聖站</StationName>
+    <Geometry>POINT (120.3272 22.61253)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:26:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C37</StationID>
+    <StationName>輕軌機廠站</StationName>
+    <Geometry>POINT (120.3261 22.6085)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:26:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C18</StationID>
+    <StationName>鼓山</StationName>
+    <Geometry>POINT (120.281067 22.642037)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:25:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C19</StationID>
+    <StationName>馬卡道</StationName>
+    <Geometry>POINT (120.281415 22.647089)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:25:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C20</StationID>
+    <StationName>臺鐵美術館</StationName>
+    <Geometry>POINT (120.281669 22.652074)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:25:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C21A</StationID>
+    <StationName>內惟藝術中心</StationName>
+    <Geometry>POINT (120.282902 22.65503)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:25:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C21</StationID>
+    <StationName>美術館</StationName>
+    <Geometry>POINT (120.287198 22.655073)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:25:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C22</StationID>
+    <StationName>聯合醫院</StationName>
+    <Geometry>POINT (120.29095 22.654791)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:25:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C23</StationID>
+    <StationName>龍華國小</StationName>
+    <Geometry>POINT (120.295223 22.654606)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:26:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>C24</StationID>
+    <StationName>愛河之心</StationName>
+    <Geometry>POINT (120.303038 22.656169)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-08T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:26:00</CheckDate>
+  </BaseStation>
+</ArrayOfBaseStation>

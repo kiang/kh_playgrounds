@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfBaseStation>
+  <BaseStation>
+    <StationID>R3</StationID>
+    <StationName>小港</StationName>
+    <Geometry>POINT (120.353802 22.56459)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:17:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R4</StationID>
+    <StationName>高雄國際機場</StationName>
+    <Geometry>POINT (120.341772 22.570166)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:18:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R4A</StationID>
+    <StationName>草衙</StationName>
+    <Geometry>POINT (120.328569 22.580354)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:18:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R5</StationID>
+    <StationName>前鎮高中</StationName>
+    <Geometry>POINT (120.321686 22.588482)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:18:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R6</StationID>
+    <StationName>凱旋</StationName>
+    <Geometry>POINT (120.315119 22.596764)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:18:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R7</StationID>
+    <StationName>獅甲</StationName>
+    <Geometry>POINT (120.30815 22.606028)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:18:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R8</StationID>
+    <StationName>三多商圈</StationName>
+    <Geometry>POINT (120.304588 22.61398)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:18:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R9</StationID>
+    <StationName>中央公園</StationName>
+    <Geometry>POINT (120.301212 22.624839)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:18:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R10</StationID>
+    <StationName>美麗島</StationName>
+    <Geometry>POINT (120.301994 22.631393)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:18:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R11</StationID>
+    <StationName>高雄車站</StationName>
+    <Geometry>POINT (120.302703 22.639694)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:18:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R12</StationID>
+    <StationName>後驛</StationName>
+    <Geometry>POINT (120.303413 22.648495)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:18:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R13</StationID>
+    <StationName>凹子底</StationName>
+    <Geometry>POINT (120.303239 22.657268)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:19:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R14</StationID>
+    <StationName>巨蛋</StationName>
+    <Geometry>POINT (120.30336 22.666158)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:19:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R15</StationID>
+    <StationName>生態園區</StationName>
+    <Geometry>POINT (120.306619 22.676686)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:19:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R16</StationID>
+    <StationName>左營</StationName>
+    <Geometry>POINT (120.308887 22.688376)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:19:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R17</StationID>
+    <StationName>世運</StationName>
+    <Geometry>POINT (120.302531 22.701841)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:19:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R18</StationID>
+    <StationName>油廠國小</StationName>
+    <Geometry>POINT (120.302323 22.708872)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:19:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R19</StationID>
+    <StationName>楠梓加工區</StationName>
+    <Geometry>POINT (120.307242 22.718651)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:19:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R20</StationID>
+    <StationName>後勁</StationName>
+    <Geometry>POINT (120.31637 22.722324)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:19:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R21</StationID>
+    <StationName>都會公園</StationName>
+    <Geometry>POINT (120.321014 22.729529)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:19:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R22</StationID>
+    <StationName>青埔</StationName>
+    <Geometry>POINT (120.317795 22.744345)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:19:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R22A</StationID>
+    <StationName>橋頭糖廠</StationName>
+    <Geometry>POINT (120.314588 22.753581)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:20:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R23</StationID>
+    <StationName>橋頭火車站</StationName>
+    <Geometry>POINT (120.310832 22.760741)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:20:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>R24</StationID>
+    <StationName>南岡山</StationName>
+    <Geometry>POINT (120.30188 22.780642)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:20:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>O1</StationID>
+    <StationName>西子灣</StationName>
+    <Geometry>POINT (120.274508 22.621492)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:16:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>O2</StationID>
+    <StationName>鹽埕埔</StationName>
+    <Geometry>POINT (120.283975 22.623795)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:16:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>O4</StationID>
+    <StationName>市議會</StationName>
+    <Geometry>POINT (120.294766 22.628933)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:16:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>O5</StationID>
+    <StationName>美麗島</StationName>
+    <Geometry>POINT (120.303254 22.631277999999998)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:16:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>O6</StationID>
+    <StationName>信義國小</StationName>
+    <Geometry>POINT (120.311391 22.630675)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:16:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>O7</StationID>
+    <StationName>文化中心</StationName>
+    <Geometry>POINT (120.317632 22.630224)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:17:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>O8</StationID>
+    <StationName>五塊厝</StationName>
+    <Geometry>POINT (120.327731 22.629413)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:17:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>O9</StationID>
+    <StationName>技擊館</StationName>
+    <Geometry>POINT (120.334651 22.6272)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:17:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>O10</StationID>
+    <StationName>衛武營</StationName>
+    <Geometry>POINT (120.341045 22.625055)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:17:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>O11</StationID>
+    <StationName>鳳山西站</StationName>
+    <Geometry>POINT (120.348118 22.625273)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:17:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>O12</StationID>
+    <StationName>鳳山</StationName>
+    <Geometry>POINT (120.355166 22.625953)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:17:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>O13</StationID>
+    <StationName>大東</StationName>
+    <Geometry>POINT (120.363497 22.625178)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:17:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>O14</StationID>
+    <StationName>鳳山國中</StationName>
+    <Geometry>POINT (120.372657 22.624862)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:17:00</CheckDate>
+  </BaseStation>
+  <BaseStation>
+    <StationID>OT1</StationID>
+    <StationName>大寮</StationName>
+    <Geometry>POINT (120.390528 22.622122)</Geometry>
+    <InfoDate/>
+    <UpdateDate>2022-11-01T00:00:00</UpdateDate>
+    <CheckDate>2023-02-07T00:17:00</CheckDate>
+  </BaseStation>
+</ArrayOfBaseStation>
