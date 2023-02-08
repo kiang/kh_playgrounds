@@ -71,7 +71,7 @@ var transStyle = function (f) {
         fill: new ol.style.Fill({
           color: 'blue'
         }),
-        text: p.name
+        text: p.id + ' ' + p.name
       })
     });
   } else {
