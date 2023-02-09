@@ -6,7 +6,13 @@
             "properties": {
                 "id": "e47ce0cc-dc16-4acd-8b64-2cf34169a690",
                 "name": "鳳山區第77期重劃區公12公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/e47ce0cc-dc16-4acd-8b64-2cf34169a690.JPG",
+                "ages": "2歲~12歲",
+                "address": "高雄市 鳳山區 南華一路、紅毛港路",
+                "date_created": "111年11月",
+                "maintainer": "高雄市政府工務局養護工程處鳳山養護工程隊",
+                "phone": "07-7998366"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +27,13 @@
             "properties": {
                 "id": "8994a3c9-a644-4b20-9779-466a1d64506e",
                 "name": "五甲國宅社區國光里公6公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/8994a3c9-a644-4b20-9779-466a1d64506e.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 鳳山區 新富路、國隆路口",
+                "date_created": "111年6月",
+                "maintainer": "高雄市政府工務局養護工程處鳳山養護工程隊",
+                "phone": "07-7998366"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +48,13 @@
             "properties": {
                 "id": "20ab9634-331f-4231-80fc-cad96a067a5d",
                 "name": "衛武營都會公園內共融遊戲場",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/20ab9634-331f-4231-80fc-cad96a067a5d.jpg",
+                "ages": "3歲~12歲",
+                "address": "高雄市 鳳山區 三多路至輜汽路間",
+                "date_created": "108年1月",
+                "maintainer": "高雄市政府工務局養護工程處四維養護工程隊",
+                "phone": "07-3421418"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +69,13 @@
             "properties": {
                 "id": "422abc12-6c13-4865-bdd7-1df77b1ada22",
                 "name": "前金區中央公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/422abc12-6c13-4865-bdd7-1df77b1ada22.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 前金區 中山一路、五福二路",
+                "date_created": "112年1月",
+                "maintainer": "高雄市政府工務局養護工程處四維養護工程隊",
+                "phone": "07-3421418"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +90,13 @@
             "properties": {
                 "id": "afae670e-b68c-41b0-91fe-71ca37c18d23",
                 "name": "旗山公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/afae670e-b68c-41b0-91fe-71ca37c18d23.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 旗山區 中正路、永福街",
+                "date_created": "112年1月",
+                "maintainer": "高雄市政府工務局養護工程處旗美養護工程隊",
+                "phone": "07-6626635"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +111,13 @@
             "properties": {
                 "id": "206d5964-f110-4bcb-93a5-8cb2fb8f21dd",
                 "name": "小港區漢民公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/206d5964-f110-4bcb-93a5-8cb2fb8f21dd.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 小港區 漢民路、大鵬路",
+                "date_created": "112年1月",
+                "maintainer": "高雄市政府工務局養護工程處四維養護工程隊",
+                "phone": "07-3421418"
             },
             "geometry": {
                 "type": "Point",
@@ -96,7 +132,13 @@
             "properties": {
                 "id": "6fcba948-fba7-4fe9-a26f-af9174a8dec3",
                 "name": "小港區坪鳳公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/6fcba948-fba7-4fe9-a26f-af9174a8dec3.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 小港區 高坪二十五路15號",
+                "date_created": "112年1月",
+                "maintainer": "高雄市政府工務局養護工程處四維養護工程隊",
+                "phone": "07-3421418"
             },
             "geometry": {
                 "type": "Point",
@@ -111,7 +153,13 @@
             "properties": {
                 "id": "e8e0a0e5-383d-41b0-b7c4-f400c592f6f9",
                 "name": "小港區小港一號公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/e8e0a0e5-383d-41b0-b7c4-f400c592f6f9.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 小港區 小港路、港信路",
+                "date_created": "111年12月",
+                "maintainer": "高雄市政府工務局養護工程處四維養護工程隊",
+                "phone": "07-3421418"
             },
             "geometry": {
                 "type": "Point",
@@ -126,7 +174,13 @@
             "properties": {
                 "id": "61fce912-bc37-4e06-93c1-641e9795b9ae",
                 "name": "大社區大社公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/61fce912-bc37-4e06-93c1-641e9795b9ae.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 大社區 金龍路、金龍路46巷",
+                "date_created": "112年1月",
+                "maintainer": "高雄市政府工務局養護工程處鳳山養護工程隊",
+                "phone": "07-7998366"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +195,13 @@
             "properties": {
                 "id": "5fc06713-6c97-4acb-ae9c-3083a3f0e20f",
                 "name": "燕巢區南燕公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/5fc06713-6c97-4acb-ae9c-3083a3f0e20f.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 燕巢區 燕新三街、燕南三街",
+                "date_created": "112年1月",
+                "maintainer": "高雄市政府工務局養護工程處岡山養護工程隊",
+                "phone": "07-6119599"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +216,13 @@
             "properties": {
                 "id": "74bc91a8-fbf1-45d6-9bcd-b0e9fcac2a15",
                 "name": "阿蓮區和蓮公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/74bc91a8-fbf1-45d6-9bcd-b0e9fcac2a15.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 阿蓮區 民權路120巷34號",
+                "date_created": "112年1月",
+                "maintainer": "高雄市政府工務局養護工程處岡山養護工程隊",
+                "phone": "07-6119599"
             },
             "geometry": {
                 "type": "Point",
@@ -171,7 +237,13 @@
             "properties": {
                 "id": "eb38db4f-bfd5-4ef4-9892-a3cb4c11c83f",
                 "name": "鼓山區九如公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/eb38db4f-bfd5-4ef4-9892-a3cb4c11c83f.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 鼓山區 九如四路1418號",
+                "date_created": "112年1月",
+                "maintainer": "高雄市政府工務局養護工程處四維養護工程隊",
+                "phone": "07-3421418"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +258,13 @@
             "properties": {
                 "id": "2fc80233-2830-4a11-a88c-bf50d90fcb73",
                 "name": "大樹區九曲堂公2",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/2fc80233-2830-4a11-a88c-bf50d90fcb73.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 大樹區 九大路639號",
+                "date_created": "112年1月",
+                "maintainer": "高雄市政府工務局養護工程處鳳山養護工程隊",
+                "phone": "07-7998366"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +279,13 @@
             "properties": {
                 "id": "aa891e58-5905-4539-b4ef-3b53ac3ee89e",
                 "name": "前鎮區時代公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/aa891e58-5905-4539-b4ef-3b53ac3ee89e.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 前鎮區 凱旋四路、時代南一路",
+                "date_created": "111年12月",
+                "maintainer": "高雄市政府工務局養護工程處四維養護工程隊",
+                "phone": "07-3421418"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +300,13 @@
             "properties": {
                 "id": "3f48e77a-cc0f-4952-b15c-3c20923aae8d",
                 "name": "橋頭區一品公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/3f48e77a-cc0f-4952-b15c-3c20923aae8d.JPG",
+                "ages": "2歲~12歲",
+                "address": "高雄市 橋頭區 瑞祥一街",
+                "date_created": "111年11月",
+                "maintainer": "高雄市政府工務局養護工程處岡山養護工程隊",
+                "phone": "07-6119599"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +321,13 @@
             "properties": {
                 "id": "75a558ed-87d3-4027-89f6-9b6ad7bf8dac",
                 "name": "梓官區信蚵公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/75a558ed-87d3-4027-89f6-9b6ad7bf8dac.JPG",
+                "ages": "2歲~12歲",
+                "address": "高雄市 梓官區 中正路73號",
+                "date_created": "111年11月",
+                "maintainer": "高雄市政府工務局養護工程處岡山養護工程隊",
+                "phone": "07-6119599"
             },
             "geometry": {
                 "type": "Point",
@@ -246,7 +342,13 @@
             "properties": {
                 "id": "e53479fd-9bcc-4a41-8cd9-e4bf64125ad1",
                 "name": "彌陀區彌陀公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/e53479fd-9bcc-4a41-8cd9-e4bf64125ad1.JPG",
+                "ages": "2歲~12歲",
+                "address": "高雄市 彌陀區 鹽港一路41巷",
+                "date_created": "111年11月",
+                "maintainer": "高雄市政府工務局養護工程處岡山養護工程隊",
+                "phone": "07-6119599"
             },
             "geometry": {
                 "type": "Point",
@@ -261,7 +363,13 @@
             "properties": {
                 "id": "d8bf7beb-1d2b-4557-8e6e-5faffc5b4d1d",
                 "name": "路竹區路竹公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/d8bf7beb-1d2b-4557-8e6e-5faffc5b4d1d.png",
+                "ages": "2歲~12歲",
+                "address": "高雄市 路竹區 中華路337巷",
+                "date_created": "111年11月",
+                "maintainer": "高雄市政府工務局養護工程處岡山養護工程隊",
+                "phone": "07-6119599"
             },
             "geometry": {
                 "type": "Point",
@@ -276,7 +384,13 @@
             "properties": {
                 "id": "350f4e70-28af-47d7-aafe-5ac66639bd1a",
                 "name": "岡山和平公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/350f4e70-28af-47d7-aafe-5ac66639bd1a.jpg",
+                "ages": "",
+                "address": "高雄市 岡山區 大德一路88號",
+                "date_created": "111年11月",
+                "maintainer": "高雄市政府工務局養護工程處岡山養護工程隊",
+                "phone": "6119599"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +405,13 @@
             "properties": {
                 "id": "50cad42e-e9a4-4226-bc4d-a42bf6841aee",
                 "name": "前鎮區籬仔內公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/50cad42e-e9a4-4226-bc4d-a42bf6841aee.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 前鎮區 籬仔內路",
+                "date_created": "111年7月",
+                "maintainer": "高雄市政府工務局養護工程處四維養護工程隊",
+                "phone": "07-3421418"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +426,13 @@
             "properties": {
                 "id": "98564fa7-9d8a-4dc3-bed6-50d1e35cf70b",
                 "name": "鼓山區凹仔底森林公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/98564fa7-9d8a-4dc3-bed6-50d1e35cf70b.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 鼓山區 鼓山區南屏路、至聖路",
+                "date_created": "111年1月",
+                "maintainer": "高雄市政府工務局養護工程處四維養護工程隊",
+                "phone": "07-3421418"
             },
             "geometry": {
                 "type": "Point",
@@ -321,7 +447,13 @@
             "properties": {
                 "id": "65f83ff5-b473-4673-b7c6-2bf3fba4eb22",
                 "name": "岡山河堤公園共融遊戲場",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/65f83ff5-b473-4673-b7c6-2bf3fba4eb22.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 岡山區 岡山區河堤路二段 、 筧橋路",
+                "date_created": "111年1月",
+                "maintainer": "高雄市政府工務局養護工程處岡山養護工程隊",
+                "phone": "07-6119599"
             },
             "geometry": {
                 "type": "Point",
@@ -336,7 +468,13 @@
             "properties": {
                 "id": "486ea5a3-1949-415d-a4f1-06f7d26c923a",
                 "name": "左營區福山公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/486ea5a3-1949-415d-a4f1-06f7d26c923a.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 左營區 榮總路與榮佑路路口",
+                "date_created": "110年2月",
+                "maintainer": "高雄市政府工務局養護工程處四維養護工程隊",
+                "phone": "07-3421418"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +489,13 @@
             "properties": {
                 "id": "0a6a790c-67ec-4a75-a500-5b2fdb6e36db",
                 "name": "苓雅區福安公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/0a6a790c-67ec-4a75-a500-5b2fdb6e36db.jpg",
+                "ages": "6歲~12歲",
+                "address": "高雄市 苓雅區 福安路與明德街路口",
+                "date_created": "110年10月",
+                "maintainer": "高雄市政府工務局養護工程處四維養護工程隊",
+                "phone": "07-3421418"
             },
             "geometry": {
                 "type": "Point",
@@ -366,7 +510,13 @@
             "properties": {
                 "id": "0ca8995f-c895-431d-ad3a-5122ec0c4dc1",
                 "name": "湖內區公3公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/0ca8995f-c895-431d-ad3a-5122ec0c4dc1.jpg",
+                "ages": "2歲~12歲",
+                "address": "高雄市 湖內區 長壽路、長壽路151巷",
+                "date_created": "111年7月",
+                "maintainer": "高雄市政府工務局養護工程處岡山養護工程隊",
+                "phone": "07-6119599"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +531,13 @@
             "properties": {
                 "id": "1025e497-0d8e-4477-b26f-e0f1032a945e",
                 "name": "前鎮區汕頭公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/1025e497-0d8e-4477-b26f-e0f1032a945e.jpg",
+                "ages": "0.5歲~12歲",
+                "address": "高雄市 前鎮區 汕頭街及一心一路306巷口",
+                "date_created": "108年10月",
+                "maintainer": "高雄市政府工務局養護工程處四維養護工程隊",
+                "phone": "07-3421418"
             },
             "geometry": {
                 "type": "Point",
@@ -396,7 +552,13 @@
             "properties": {
                 "id": "032a69ef-bd64-4cdd-b951-4c71354a197f",
                 "name": "小港森林公園",
-                "type": "playground"
+                "type": "playground",
+                "cover": "FileDownLoad\/InclusivePlayground\/CoverPhoto\/032a69ef-bd64-4cdd-b951-4c71354a197f.JPG",
+                "ages": "5歲~12歲",
+                "address": "高雄市 小港區 高松路、松園一路口",
+                "date_created": "108年11月",
+                "maintainer": "高雄市政府工務局養護工程處四維養護工程隊",
+                "phone": "07-3421428"
             },
             "geometry": {
                 "type": "Point",

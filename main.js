@@ -221,8 +221,18 @@ map.on('singleclick', function (evt) {
         var lonLat = ol.proj.toLonLat(p.geometry.getCoordinates());
         var message = '<table class="table table-dark">';
         message += '<tbody>';
+        if (p.cover !== '') {
+          message += '<tr><td colspan="2">';
+          message += '<img src="https://pwbmo.kcg.gov.tw/' + p.cover + '" alt="' + p.name + '" style="width: 100%;" />';
+          message += '</td></tr>';
+        }
         message += '<tr><th scope="row" style="width: 80px;">名稱</th><td>' + p.name + '</td></tr>';
         message += '<tr><th scope="row">介紹</th><td><a href="https://pwbmo.kcg.gov.tw/InclusivePlaygroundDetail.aspx?Cond=' + p.id + '" target="_blank" class="btn btn-primary btn-lg btn-block">高雄市政府介紹</a></td></tr>';
+        message += '<tr><th scope="row">遊具年齡</th><td>' + p.ages + '</td></tr>';
+        message += '<tr><th scope="row">地址</th><td>' + p.address + '</td></tr>';
+        message += '<tr><th scope="row">啟用日期</th><td>' + p.date_created + '</td></tr>';
+        message += '<tr><th scope="row">管理單位</th><td>' + p.maintainer + '</td></tr>';
+        message += '<tr><th scope="row">聯絡電話</th><td>' + p.phone + '</td></tr>';
         message += '<tr><td colspan="2">';
         message += '<hr /><div class="btn-group-vertical" role="group" style="width: 100%;">';
         message += '<a href="https://www.google.com/maps/dir/?api=1&destination=' + lonLat[1] + ',' + lonLat[0] + '&travelmode=driving" target="_blank" class="btn btn-info btn-lg btn-block">Google 導航</a>';
